@@ -287,3 +287,129 @@ var data = [
         durationMinutes: "half an hour",
         comments: "My wife and I were outside in the Jacuzzi when she first saw a light.  It glowed and traveled from north to south.  It lit up again whe"
     },
+    {
+        datetime: "1/1/2010",
+        city: "jasper",
+        state: "fl",
+        country: "us",
+        shape: "sphere",
+        durationMinutes: "1 min",
+        comments: "Bright light sets in the eastren sky."
+    },
+    {
+        datetime: "1/1/2010",
+        city: "bakersfield",
+        state: "ca",
+        country: "us",
+        shape: "light",
+        durationMinutes: "1 minute",
+        comments: "Two Crafts dancing in the sky&#33"
+    },
+    {
+        datetime: "1/2/2010",
+        city: "orange",
+        state: "ca",
+        country: "us",
+        shape: "light",
+        durationMinutes: "5-6 minutes",
+        comments: "Point of light in daytime sky over Orange&#44 CA"
+    },
+    {
+        datetime: "1/2/2010",
+        city: "phoenix",
+        state: "az",
+        country: "us",
+        shape: "rectangle",
+        durationMinutes: "10 seconds",
+        comments: "A bright light in Phoenix hovered above houses in broad daylight&#44 then vanished"
+    },
+    {
+        datetime: "1/2/2010",
+        city: "sacramento",
+        state: "ca",
+        country: "us",
+        shape: "triangle",
+        durationMinutes: "4min",
+        comments: "Triangle shaped object spotted over Sacramento River."
+    },
+    {
+        datetime: "1/2/2010",
+        city: "middleburg",
+        state: "fl",
+        country: "us",
+        shape: "sphere",
+        durationMinutes: "10 minutes",
+        comments: "I was on my way out the door of my house &#44 when i stepped into the drive way of my house i noticed a redish/orange moon it was straight"
+    },
+    {
+        datetime: "1/2/2010",
+        city: "waxhaw",
+        state: "nc",
+        country: "us",
+        shape: "sphere",
+        durationMinutes: "1 minute",
+        comments: "red glow/flame over waxhaw&#44 nc"
+    },
+    {
+        datetime: "1/2/2010",
+        city: "madison",
+        state: "al",
+        country: "us",
+        shape: "triangle",
+        durationMinutes: "2 minutes",
+        comments: "Triangle shaped craft with orange-yellow lights that hovered very low near Redstone Arsenal in Madison&#44 Al"
+    },
+    {
+        datetime: "1/2/2010",
+        city: "loveland",
+        state: "co",
+        country: "us",
+        shape: "cross",
+        durationMinutes: "5 minutes",
+        comments: "extremely bright light over tree in loveland&#44 CO"
+    },
+    {
+        datetime: "1/2/2010",
+        city: "atlanta",
+        state: "ga",
+        country: "us",
+        shape: "fireball",
+        durationMinutes: "3 seconds",
+        comments: "glowing red spaceship flys at car"
+    },
+    {
+        datetime: "1/3/2010",
+        city: "mason",
+        state: "oh",
+        country: "us",
+        shape: "circle",
+        durationMinutes: "20 mins",
+        comments: "didnt move like a plane or helicopter&#44 too close to be a star."
+    },
+    {
+        datetime: "1/4/2010",
+        city: "glen spey",
+        state: "ny",
+        country: "us",
+        shape: "flash",
+        durationMinutes: "35 mins",
+        comments: "colorful flashing craft hovers for 30mins &amp;  then flashes violet&#44 followed by dashing to the right &amp; disappearing"
+    },
+    {
+        datetime: "1/4/2010",
+        city: "reedville",
+        state: "va",
+        country: "us",
+        shape: "changing",
+        durationMinutes: "abt 1 hour",
+        comments: "Spherical flashing lights&#44 hovering in the northwestern sky&#44 no sound.  ((NUFORC Note:  Possible sighting of celestial body??  PD))"
+    },
+    {
+        datetime: "1/4/2010",
+        city: "cleveland",
+        state: "oh",
+        country: "us",
+        shape: "triangle",
+        durationMinutes: "downtown",
+        comments: "is it a ufo"
+    },
