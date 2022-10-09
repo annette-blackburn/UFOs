@@ -251,3 +251,39 @@ var data = [
         durationMinutes: "10-11 min",
         comments: "4 redishorange shpereiodical objects appear during 2010 fireworks show hover around then disappear  500 Lights On Object0: Yes"
     },
+    {
+        datetime: "1/1/2010",
+        city: "san diego",
+        state: "ca",
+        country: "us",
+        shape: "triangle",
+        durationMinutes: "3 minutes",
+        comments: "It happen nEw years eve 2010"
+    },
+    {
+        datetime: "1/1/2010",
+        city: "haverhill",
+        state: "ma",
+        country: "us",
+        shape: "triangle",
+        durationMinutes: "30 seconds",
+        comments: "Haverhill Massachusetts triangle object sighting"
+    },
+    {
+        datetime: "1/1/2010",
+        city: "pasadena",
+        state: "ca",
+        country: "us",
+        shape: "triangle",
+        durationMinutes: "1 minute",
+        comments: "Walking on Cordova westbound just before the Hilton.  Sun was setting so looked up to see if we could see any satellite reflection.  Sa"
+    },
+    {
+        datetime: "1/1/2010",
+        city: "albuquerque",
+        state: "nm",
+        country: "us",
+        shape: "light",
+        durationMinutes: "half an hour",
+        comments: "My wife and I were outside in the Jacuzzi when she first saw a light.  It glowed and traveled from north to south.  It lit up again whe"
+    },
