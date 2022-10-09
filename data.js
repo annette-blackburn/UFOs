@@ -134,3 +134,30 @@ var data = [
         durationMinutes: "30 minuets",
         comments: "Objects in sky over Antioch California 12:03AM January 1&#44  2010"
     },
+    {
+        datetime: "1/1/2010",
+        city: "el cajon",
+        state: "ca",
+        country: "us",
+        shape: "light",
+        durationMinutes: "10min",
+        comments: "3 red lights in sky new years 2010"
+    },
+    {
+        datetime: "1/1/2010",
+        city: "naples",
+        state: "fl",
+        country: "us",
+        shape: "sphere",
+        durationMinutes: "2 min",
+        comments: "i&#39m in naples park. last night&#44 my husband and I were sitting outside --neighbors lighting off fireworks&#44 etc. We&#39re under a lanai and"
+    },
+    {
+        datetime: "1/1/2010",
+        city: "la mesa",
+        state: "ca",
+        country: "us",
+        shape: "triangle",
+        durationMinutes: "4-6 minutes",
+        comments: "3 bright red lights hovering high in the sky in an elongated triangle pattern just after midnight 2010 in La Mesa&#44 Ca"
+    },
