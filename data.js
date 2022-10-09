@@ -16,4 +16,13 @@ var data = [
         shape: "light",
         durationMinutes: "13 minutes",
         comments: "Three bright red lights witnessed floating stationary over San Diego New Years Day 2010"
-      },    
+    },    
+    {
+        datetime: "1/1/2010",
+        city: "el cajon",
+        state: "ca",
+        country: "us",
+        shape: "triangle",
+        durationMinutes: "6 minutes",
+        comments: "On New Years Eve I went outside to hear the celebration and fireworks in my neighbor hood. And noticed 3 red lights above my house and"
+    },
