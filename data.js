@@ -61,4 +61,31 @@ var data = [
         shape: "light",
         durationMinutes: "10 min",
         comments: "Three red lights over southern California that made a triangle shape"
+    },  
+    {
+        datetime: "1/1/2010",
+        city: "lemon grove",
+        state: "ca",
+        country: "us",
+        shape: "light",
+        durationMinutes: "about 15 minutes",
+        comments: "3 Red lights in line pattern above El Cajon/ East County."
+    },
+    {
+        datetime: "1/1/2010",
+        city: "maricopa",
+        state: "az",
+        country: "us",
+        shape: "unknown",
+        durationMinutes: "3 minutes",
+        comments: "One huge UFO or three seperate ones"
+    },
+    {
+        datetime: "1/1/2010",
+        city: "park city",
+        state: "ky",
+        country: "us",
+        shape: "light",
+        durationMinutes: "2-3 seconds",
+        comments: "Lights orbiting the moon"
     },
