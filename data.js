@@ -89,3 +89,21 @@ var data = [
         durationMinutes: "2-3 seconds",
         comments: "Lights orbiting the moon"
     },
+    {
+        datetime: "1/1/2010",
+        city: "st. louis",
+        state: "mo",
+        country: "us",
+        shape: "fireball",
+        durationMinutes: "1 min",
+        comments: "7 floating orbs or fireballs moving from southwest to northeast direction."
+    },
+    {
+        datetime: "1/1/2010",
+        city: "el cajon",
+        state: "ca",
+        country: "us",
+        shape: "formation",
+        durationMinutes: "15 min.",
+        comments: "Three red lights over the San Diego area - IT&#39S A HOAX YET AGAIN&#33&#33"
+    },
