@@ -413,3 +413,120 @@ var data = [
         durationMinutes: "downtown",
         comments: "is it a ufo"
     },
+    {
+        datetime: "1/4/2010",
+        city: "whittier",
+        state: "ca",
+        country: "us",
+        shape: "light",
+        durationMinutes: "3 seconds",
+        comments: "Thick bright light travels across southern California then disappears?"
+    },
+    {
+        datetime: "1/4/2010",
+        city: "ben wheeler",
+        state: "tx",
+        country: "us",
+        shape: "light",
+        durationMinutes: "2-3 minutes",
+        comments: "Very bright light&#44 flying lower than a jet; appeared to be tracking another light.  ((NUFORC Note:  Satellites??  PD))"
+    },
+    {
+        datetime: "1/4/2010",
+        city: "san pablo",
+        state: "ca",
+        country: "us",
+        shape: "unknown",
+        durationMinutes: "4 hours",
+        comments: "Extremely high&#44 hovering object blinking various colors with red light on top seen from San Pablo.  ((NUFORC Note:  Sirius??  PD))"
+    },
+    {
+        datetime: "1/4/2010",
+        city: "cedar rapids",
+        state: "ia",
+        country: "us",
+        shape: "light",
+        durationMinutes: "15 min",
+        comments: "Two very bright white lights come close together in the northwest sky and one dissapears..."
+    },
+    {
+        datetime: "1/4/2010",
+        city: "el cajon",
+        state: "ca",
+        country: "us",
+        shape: "light",
+        durationMinutes: "noticed from dusk to dawn",
+        comments: "&quot;Fake stars&quot; over San Diego&#44 CA"
+    },
+    {
+        datetime: "1/5/2010",
+        city: "princeton",
+        state: "in",
+        country: "us",
+        shape: "disk",
+        durationMinutes: "15 seconds",
+        comments: "Flying Saucer hovering above ground."
+    },
+    {
+        datetime: "1/5/2010",
+        city: "chula vista",
+        state: "ca",
+        country: "us",
+        shape: "oval",
+        durationMinutes: "10 seconds",
+        comments: "One Oval Spining above Chula Vista"
+    },
+    {
+        datetime: "1/5/2010",
+        city: "colonia",
+        state: "nj",
+        country: "us",
+        shape: "unknown",
+        durationMinutes: "15 min",
+        comments: "loud aircraft that could be heard for up to 15 minutes at its lowest rummble."
+    },
+    {
+        datetime: "1/5/2010",
+        city: "clinton",
+        state: "nj",
+        country: "us",
+        shape: "cigar",
+        durationMinutes: "3 weeks",
+        comments: "Traveling to Pennylvania."
+    },
+    {
+        datetime: "1/5/2010",
+        city: "new paltz",
+        state: "ny",
+        country: "us",
+        shape: "triangle",
+        durationMinutes: "45 seconds",
+        comments: "Black Triangular Aircraft w/ Three White Lights Flying Low in New Paltz&#44 NY"
+    },
+    {
+        datetime: "1/5/2010",
+        city: "rockwell",
+        state: "nc",
+        country: "us",
+        shape: "cigar",
+        durationMinutes: "40 seconds",
+        comments: "Brilliant silver/white silent object flew into sight&#44 slowed&#44 paused then faded from sight."
+    },
+    {
+        datetime: "1/5/2010",
+        city: "anderson",
+        state: "sc",
+        country: "us",
+        shape: "light",
+        durationMinutes: "seven minutes",
+        comments: "Orange light that set down in woods&#44 got brighter&#44 then left"
+    },
+    {
+        datetime: "1/6/2010",
+        city: "san diego",
+        state: "ca",
+        country: "us",
+        shape: "light",
+        durationMinutes: "20 minutes",
+        comments: "Unusual silent&#44 orange glowing light stopping changing direction and discharging sudstance."
+    },
