@@ -107,3 +107,30 @@ var data = [
         durationMinutes: "15 min.",
         comments: "Three red lights over the San Diego area - IT&#39S A HOAX YET AGAIN&#33&#33"
     },
+    {
+        datetime: "1/1/2010",
+        city: "spring valley",
+        state: "ca",
+        country: "us",
+        shape: "light",
+        durationMinutes: "10:00",
+        comments: "Three bright red lights in a straight line formation"
+    },
+    {
+        datetime: "1/1/2010",
+        city: "willow",
+        state: "ak",
+        country: "us",
+        shape: "formation",
+        durationMinutes: "7 min",
+        comments: "four orange red objects suddenly appear 12:01 am new years move north then south and dissapear"
+    },
+    {
+        datetime: "1/1/2010",
+        city: "antioch",
+        state: "ca",
+        country: "us",
+        shape: "other",
+        durationMinutes: "30 minuets",
+        comments: "Objects in sky over Antioch California 12:03AM January 1&#44  2010"
+    },
