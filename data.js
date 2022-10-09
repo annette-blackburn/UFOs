@@ -44,3 +44,21 @@ var data = [
         durationMinutes: "1 min",
         comments: "Fresno cal. bright light hovers over head then vanished"
     },
+    {
+        datetime: "1/1/2010",
+        city: "grants pass",
+        state: "or",
+        country: "us",
+        shape: "triangle",
+        durationMinutes: "a few mintues",
+        comments: "Triangle shaped craft with three red lights at points hovering over Grants Pass&#44 Oregon."
+    },
+    {
+        datetime: "1/1/2010",
+        city: "la mesa",
+        state: "ca",
+        country: "us",
+        shape: "light",
+        durationMinutes: "10 min",
+        comments: "Three red lights over southern California that made a triangle shape"
+    },
