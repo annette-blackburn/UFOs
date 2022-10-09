@@ -34,4 +34,13 @@ var data = [
         shape: "triangle",
         durationMinutes: "12 minutes",
         comments: "3 Red objects hovering over El Cajon CA"
-      },
+    },
+    {
+        datetime: "1/1/2010",
+        city: "fresno",
+        state: "ca",
+        country: "us",
+        shape: "light",
+        durationMinutes: "1 min",
+        comments: "Fresno cal. bright light hovers over head then vanished"
+    },
