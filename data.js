@@ -161,3 +161,30 @@ var data = [
         durationMinutes: "4-6 minutes",
         comments: "3 bright red lights hovering high in the sky in an elongated triangle pattern just after midnight 2010 in La Mesa&#44 Ca"
     },
+    {
+        datetime: "1/1/2010",
+        city: "anchorage",
+        state: "ak",
+        country: "us",
+        shape: "light",
+        durationMinutes: "one minute",
+        comments: "Upper atmosphere object moving south&#44 becoming stationary and later moving east at a high rate of speed."
+    },
+    {
+        datetime: "1/1/2010",
+        city: "national city",
+        state: "ca",
+        country: "us",
+        shape: "formation",
+        durationMinutes: "25 mintutes",
+        comments: "3 red lights over the mountains in Eastern San Diego"
+    },
+    {
+        datetime: "1/1/2010",
+        city: "boca raton",
+        state: "fl",
+        country: "us",
+        shape: "fireball",
+        durationMinutes: "4 minutes",
+        comments: "Slow moving fireball northbound at hight altitude Southern Florida"
+    },
