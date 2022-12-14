@@ -3,7 +3,7 @@
 # Module 11: UFO Sightings Challenge
 
 ## Overview of Analysis
-- Provide a more in-depth analysis of UFO sightings by using JavaScript to establish data visualization through an encoded website that allows users to filter for multiple criteria and add table filters for city, shape, country, and shape
+Provide a more in-depth analysis of UFO sightings by using JavaScript to establish data visualization through an encoded website that allows users to filter for multiple criteria and add table filters for city, shape, country, and shape
 
 ## Results
 The website should display all UFO sightings and should allow the user to filter the data with the aforementioned criteria. The user must enter the text they want to search in the input boxes and then apply the filter(s) they want.
