@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>UFO Finder</title>
     <link
@@ -17,10 +18,11 @@
         <nav class="navbar navbar-dark bg-dark navbar-expand-lg">
             <a class="navbar-brand" href="index.html">UFO Sightings</a>
         </nav>
-    </div>
+
     <div class="jumbotron">
         <h1 class="display-4">The Truth is Out There</h1>
     </div>
+
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-4"> 
@@ -36,6 +38,7 @@
             </div>
         </div>
     </div>
+    <br>
     <div class="container-fluid">
         <div class="row">
           <div class="col-md-3">
@@ -47,7 +50,20 @@
                         <input type="text" placeholder="1/10/2010" id="datetime" />
                     </li>
                     <li class="list-group-item bg-dark">
-                        <button id="filter-btn" type="button" class="btn btn-dark">Filter Table</button>                    
+                        <label for="city">Enter a City</label><br>
+                        <input type="text" placeholder="roswell" id="city" />              
+                    </li>
+                    <li class="list-group-item bg-dark">
+                        <label for="state">Enter a State</label><br>
+                        <input type="text" placeholder="ca" id="state" />
+                    </li>
+                    <li class="list-group-item bg-dark">
+                        <label for="country">Enter a Country</label><br>
+                        <input type="text" placeholder="us" id="country" />
+                    </li>
+                    <li class="list-group-item bg-dark">
+                        <label for="shape">Enter a Shape</label><br>
+                        <input type="text" placeholder="circle" id="shape" />
                     </li>
                 </ul>
             </form>
